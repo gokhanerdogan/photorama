@@ -1,7 +1,7 @@
 # Site settings
 title: HyeTert
 email: ""
-description: "Photo Journal"
+description: "HyeTert Photo Journal"
 url: "https://gokhanerdogan.github.io"
 baseurl: "/photostory"
 facebook_username: ""
@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   HyeTert
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
